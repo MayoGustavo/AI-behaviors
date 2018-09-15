@@ -5,3 +5,5 @@ A demostration of pathfinding using A Star. The main character is followed by tw
 To play test it:
 Go to EXE folder and open AStar.exe
 
+Techs:
+Unity 4.2 and C#
